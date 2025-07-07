@@ -94,6 +94,13 @@ This project analyzed traffic accident data to uncover how **environmental condi
 - `README.md` – Project summary and documentation
 
 ---
+# Dataset Source
+
+The dataset used in this project is publicly available on Kaggle:
+
+🔗 [Traffic Accidents Dataset – by oktayrdeki on Kaggle](https://www.kaggle.com/datasets/oktayrdeki/traffic-accidents?resource=download)
+
+---
 
 ## Tools Used
 
